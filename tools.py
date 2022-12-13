@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import csv
 from math import log
 from math import exp
+from math import ceil
 
 def loadData(filename):
     """
